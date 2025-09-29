@@ -1,4 +1,4 @@
-# Hi there, I'm Sujal Agrawal 👋
+# Hi there, I'm Sujal Singal 👋
 
 🚀 Full Stack MERN Developer | 🧠 DevOps Learner | 🎯 Obsessed with Clean UI & Real-World Impact
 
